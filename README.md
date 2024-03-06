@@ -1,5 +1,7 @@
 # SayiTahminOyunu
-Random sayıyı tahmin edebileceğimiz basic bir oyun
+Random Number Guessing Application with Kotlin
+
+📸 Screenshots
 
 ![Ekran Görüntüsü (6)](https://github.com/Sezenulupnr/SayiTahminOyunu/assets/104523675/24794cd6-c151-4721-8d40-a33362de7da7)
 ![Ekran Görüntüsü (8)](https://github.com/Sezenulupnr/SayiTahminOyunu/assets/104523675/4c587c24-f589-47a7-8ca3-0acf39a2d227)
