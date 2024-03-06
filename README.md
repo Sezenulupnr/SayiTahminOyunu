@@ -1,4 +1,4 @@
-# SayiTahminOyunu
+# NumberGuessingGame
 Random Number Guessing Application with Kotlin
 
 📸 Screenshots
